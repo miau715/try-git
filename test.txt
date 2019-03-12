@@ -3,7 +3,6 @@ b
 b
 a
 c
-c
-c
+a
 c
 c
